@@ -1,5 +1,6 @@
 package com.example.myapplication
 
+
 object ClassObj {
     var str1:String = "str1"
     var str2:String = "str2"
