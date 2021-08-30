@@ -12,7 +12,6 @@ class MainActivity : AppCompatActivity() {
         val data = TwoPropertyDataClass("sfa",33).St.toString()
 
 
-
         findViewById<Button>(R.id.button_x).setOnClickListener {
             println("$data")
         }
